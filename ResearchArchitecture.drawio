@@ -93,7 +93,7 @@
         </mxCell>
         <mxCell id="MpDEyv8cJ5t634f4Yrty-37" value="Metadata&lt;div&gt;Generation&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=10;" connectable="0" vertex="1" parent="MpDEyv8cJ5t634f4Yrty-36">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-30" y="45" as="offset" />
+            <mxPoint x="-30" y="56" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MpDEyv8cJ5t634f4Yrty-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
