@@ -153,6 +153,12 @@
         <mxCell id="MpDEyv8cJ5t634f4Yrty-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="290" width="120" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="MpDEyv8cJ5t634f4Yrty-61" value="Summarization with Llama Model" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="700" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MpDEyv8cJ5t634f4Yrty-62" value="Summarization is performed on filled text using the Meta Llama model to create concise, accurate overviews." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="703.75" y="310" width="112.5" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
